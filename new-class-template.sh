@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://photos.app.goo.gl/UmjpZFmHGu387moG6');
+      background-image: url('https://storage.googleapis.com/a-dream/verve.jpg');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VjZDByenU0MjljOWNjbjQ5ZjRkcWZtcXp0cDFlcnRzMWJqczJhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Whrcv4JaRxeRzsoGyV/giphy.gif"
+      <iframe src="https://giphy.com/embed/1sv8rIfAtyMsqsqDt8"
               width="500"
               height="270"
               style="border-radius:10px;"
